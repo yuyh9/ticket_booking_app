@@ -1,6 +1,6 @@
 # ticket_app
 
-A new Flutter project.
+A static ticket booking app flutter project.
 
 ## Getting Started
 
